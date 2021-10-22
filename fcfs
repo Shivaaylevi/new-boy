@@ -41,5 +41,5 @@ i++;
 avg1=totwt/n;
 avg2=tottt/n; 
 printf("\navg1=%d\t avg2=%d\t",avg1,avg2); 
-return 0;
+getch(0);
 }
